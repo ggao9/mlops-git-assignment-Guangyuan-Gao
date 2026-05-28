@@ -1,3 +1,7 @@
 # mlops-git-assignment-Guangyuan-Gao
-- Cousrse code: 201
-- Current date: 5/28/2026
+
+Name: Your Name  
+Student ID: 12345678
+
+Course Code: COMP1234  
+Date: 2026-05-28
