@@ -1,7 +1,7 @@
 # mlops-git-assignment-Guangyuan-Gao
 
-Name: Your Name  
-Student ID: 12345678
+Name: Guangyuan Gao
+Student ID: 117911222
 
-Course Code: COMP1234  
+Course Code: 201 
 Date: 2026-05-28
