@@ -1,6 +1,6 @@
 # Assignment 2 – Data Quality & Testing Report  
-**Author:** Guangyuan  
-**Course:** MLOps / Data Engineering  
+**Author:** Guangyuan Gao
+**Course:** MLOps
 **Date:** 2026‑06‑22  
 
 ---
