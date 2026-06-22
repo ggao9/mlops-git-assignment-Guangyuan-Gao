@@ -7,7 +7,6 @@
 
 ## 1. Great Expectations Validation Results (Screenshot)
 
-**Insert screenshot here:**  
 ![GE Validation](images/validation.png)
 
 This screenshot shows the output of the Great Expectations validation run on the messy customer dataset.  
