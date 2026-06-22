@@ -43,8 +43,7 @@ These values come directly from the validation summary produced in Part 3.
 
 ## 3. Pytest Execution (Screenshot)
 
-**Insert screenshot here:**  
-`![pytest_results](images/pytest_results.png)`
+![GE Validation](images/test.png)
 
 This screenshot shows all unit tests passing for:
 
